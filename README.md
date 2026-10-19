@@ -1,16 +1,30 @@
-# React + Vite
+# guelito.me *(eventually)*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> "i bought the domain at 2am. still figuring out the rest."
 
-Currently, two official plugins are available:
+Welcome to the source code of **guelito.me** — an over-engineered "under construction" page built with React, Vite, and an interactive canvas text animation just to tell visitors that there is nothing here yet.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Interactive Typography**: You can hover, click, and drag the letters of `guelito.me` around instead of reading actual content.
+- **20 Excuses on Refresh**: Hit `F5` to cycle through 20 different ways of saying I'm procrastinating.
+- **Zero Actual Content**: Blazingly fast because it does literally nothing else.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Roadmap
 
-## Expanding the ESLint configuration
+- [x] Buy `guelito.me`
+- [x] Spend way too much time on the "coming soon" page
+- [ ] Actually build the website *(ETA: next weekend, since 3 weekends ago)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Running Locally
+
+If for some reason you want to run an empty waiting page on your own machine:
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+*Yes, this is a repository. No, there's nothing else in it. Thank you for visiting.*
